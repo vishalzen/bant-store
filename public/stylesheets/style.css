@@ -16,9 +16,9 @@
 }
 
 body {
-  font-family: 9px "Poppins", sans-serif;
+  font-family: 9px "Monteserrat", sans-serif;
 }
-
+/* Previous font family - Poppins */
 html {
   scroll-behavior: smooth;
 }
